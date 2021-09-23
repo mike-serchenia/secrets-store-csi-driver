@@ -16,7 +16,7 @@ entries:
     sources:
     - https://github.com/kubernetes-sigs/secrets-store-csi-driver
     urls:
-    - https://mike-serchenia.github.io.github.io/secrets-store-csi-driver/charts/secrets-store-csi-driver-0.3.1.tgz
+    - https://mike-serchenia.github.io/secrets-store-csi-driver/charts/secrets-store-csi-driver-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.3.0
